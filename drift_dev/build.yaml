@@ -14,7 +14,7 @@ targets:
   $default:
     sources:
       include:
-        - lib/**/*.dart
+        - lib/$lib$
         - package:common_drift_models/common_drift_models.dart
 
 builders:
